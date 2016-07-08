@@ -92,6 +92,7 @@ Key:
 * [Nester](http://nester.sourceforge.net/)
 * [NinjaTurtles](https://ninjaturtles.codeplex.com/)
 * [VisualMutator](http://visualmutator.github.io/web/)
+* [Pitest (aka PIT)](https://github.com/hcoles/pitest)
 
 # Automated Exploratory Testing
 * ~~[Microsoft Code Digger](http://research.microsoft.com/en-us/projects/codedigger/)~~ (now Microsoft IntelliTest)
